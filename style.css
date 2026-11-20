@@ -5,7 +5,7 @@ body { margin: 0; color: #243b43; background: #f6f3ed; font-family: Arial, "Malg
 .site-header { border-bottom: 1px solid #d9dfd9; background: #fff; }
 .site-header .page { display: flex; justify-content: space-between; align-items: center; padding-top: 18px; padding-bottom: 18px; gap: 12px; }
 .site-header span { font-size: 11px; letter-spacing: 1px; }
-.hero { padding-top: 40px; min-width: 960px; }
+.hero { padding-top: 40px; }
 .eyebrow { margin: 0 0 10px; font-size: 12px; font-weight: 700; letter-spacing: 2px; color: #527963; }
 h1 { max-width: 720px; margin: 0 0 16px; font-size: 42px; line-height: 1.25; }
 .lead { margin-bottom: 24px; }
